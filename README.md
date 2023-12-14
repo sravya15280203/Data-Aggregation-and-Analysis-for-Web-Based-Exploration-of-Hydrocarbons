@@ -1,14 +1,14 @@
 Hydrocarbon Exploration Web Application
 Overview
-This repository contains the source code and documentation for a web application designed for the exploration of hydrocarbons. The application is built using HTML, Flask, Python, and SQLite, providing users with a convenient interface to retrieve information about molecules.
+This repository contains the source code for a web application designed for exploring hydrocarbons. The application is built using HTML, Flask, Python, and SQLite, allowing users to retrieve information about molecules based on their name, formula, or SMILE representation.
 
-Key Features
+Features
 Molecule Information Retrieval:
 
-Enables users to retrieve information about a molecule using its name, formula, or SMILE representation.
-Integration with Datasets:
+Retrieve information about a molecule using its name, formula, or SMILE representation.
+Dataset Integration:
 
-Enhances the use of datasets from PyAR, QM9, and RDKit by seamlessly integrating them into an SQLite database.
-Scalable Web Application:
+Seamless integration with datasets from PyAR, QM9, and RDKit, enhancing the application's functionality.
+Scalable Design:
 
-Designed and implemented a scalable web application following the principles of Client-Server Architecture.
+Implementation follows the principles of Client-Server Architecture for scalability.
